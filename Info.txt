@@ -1,0 +1,7 @@
+Hello Guys,
+This is very first application. Created using Netbeans IDE.
+In this Application, You can do basic calculations like addition, subtraction, division and multiplication.
+There is a option to clear the label after performing calculations. The button name is "C".
+If your work is completed and you want to exit. The button name is "Cancel".
+
+I think a person will get a satisfaction while running his/her own application on the system.
